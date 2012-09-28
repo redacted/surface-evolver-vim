@@ -1,7 +1,7 @@
 The syntax files required to handle Surface Evolver (http://www.susqu.edu/brakke/evolver/evolver.html) scripts in vim. 
 
-syntax: Muwn Gu (muwn.gu at gmail dot com)
+Original syntax highlighting provided courtesy of Muwn Gu (muwn.gu at gmail dot com)
 
-ftplugin/detect: Steven Tobin
+Repackaged as ftplugin/detect by Steven Tobin
 
 Any suggestions/improvements welcome.
